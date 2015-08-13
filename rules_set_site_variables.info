@@ -1,0 +1,5 @@
+name = Rules Set Site Variables
+description = Use Rules to Set Site Variables and Configuration
+package = Other
+core = 7.x
+php = 5.2
